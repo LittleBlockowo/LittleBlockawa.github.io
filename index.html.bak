@@ -582,13 +582,13 @@
             <i class="fas fa-music"></i>&nbsp;&nbsp;听听音乐
         </div>
     
-    <div class="row">
+   <div class="row">
         <meting-js class="col l8 offset-l2 m10 offset-m1 s12" server="netease" type="song" id="1332662900" fixed="false" autoplay="true" theme="#42b983" loop="all" order="random" preload="auto" volume="0.7" list-folded="false">
         <div class="aplayer aplayer-withlrc">
-<div class="aplayer-body">
+<div class="aplayer-body"
     <div class="aplayer-pic" style="background-image: url(&quot;https://api.i-meto.com/meting/api?server=netease&amp;type=pic&amp;id=109951165271191361&amp;auth=afcdf6eae129098bccf5c2671cfa51c1fea17049&quot;);background-color: #42b983;">
         <div class="aplayer-button aplayer-play"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 16 31"><path d="M15.552 15.168q0.448 0.32 0.448 0.832 0 0.448-0.448 0.768l-13.696 8.512q-0.768 0.512-1.312 0.192t-0.544-1.28v-16.448q0-0.96 0.544-1.28t1.312 0.192z"></path></svg></div>
-    </div>
+    </div> 
     <div class="aplayer-info">
         <div class="aplayer-music">
             <span class="aplayer-title">Forever Young</span>
