@@ -982,7 +982,7 @@ $(function () {
         </script>
     
 
-    <!-- 雪花特效 -->
+    <!-- 雪花特效 
      
         <script type="text/javascript">
             // 只在桌面版网页启用特效
