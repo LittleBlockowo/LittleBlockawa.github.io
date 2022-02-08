@@ -5,7 +5,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="keywords" content="关于, 有限元,ABAQUS,C++等">
-    <meta name="description" content="这里是Jabari的博客">
+    <meta name="description" content="这里是LittleBlock的博客">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
     <meta name="renderer" content="webkit|ie-stand|ie-comp">
@@ -17,7 +17,7 @@
     <!-- Global site tag (gtag.js) - Google Analytics -->
 
 
-    <title>关于 | Jabari&#39;s Blog</title>
+    <title>关于 | LittleBlock&#39;s Blog</title>
     <link rel="icon" type="image/png" href="/favicon.png">
 
     <link rel="stylesheet" type="text/css" href="/libs/awesome/css/all.min.css">
@@ -32,7 +32,7 @@
 
 <meta name="generator" content="Hexo 6.0.0">
 <style>.github-emoji { position: relative; display: inline-block; width: 1.2em; min-height: 1.2em; overflow: hidden; vertical-align: top; color: transparent; }  .github-emoji > span { position: relative; z-index: 10; }  .github-emoji img, .github-emoji .fancybox { margin: 0 !important; padding: 0 !important; border: none !important; outline: none !important; text-decoration: none !important; user-select: none !important; cursor: auto !important; }  .github-emoji img { height: 1.2em !important; width: 1.2em !important; position: absolute !important; left: 50% !important; top: 50% !important; transform: translate(-50%, -50%) !important; user-select: none !important; cursor: auto !important; } .github-emoji-fallback { color: inherit; } .github-emoji-fallback img { opacity: 0 !important; }</style>
-<link rel="alternate" href="/atom.xml" title="Jabari's Blog" type="application/atom+xml">
+<link rel="alternate" href="/atom.xml" title="LittleBlock's Blog" type="application/atom+xml">
 </head>
 
 
@@ -47,7 +47,7 @@
                     
                     <img src="/medias/logo.png" class="logo-img" alt="LOGO">
                     
-                    <span class="logo-span">Jabari&#39;s Blog</span>
+                    <span class="logo-span">LittleBlock&#39;s Blog</span>
                 </a>
             </div>
             
@@ -146,10 +146,10 @@
         
         <img src="/medias/logo.png" class="logo-img circle responsive-img">
         
-        <div class="logo-name">Jabari&#39;s Blog</div>
+        <div class="logo-name">LittleBlock&#39;s Blog</div>
         <div class="logo-desc">
             
-            这里是Jabari的博客
+            这里是LittleBlock的博客
             
         </div>
     </div>
@@ -236,7 +236,7 @@
         
         <li><div class="divider"></div></li>
         <li>
-            <a href="https://github.com/Jabari110" class="waves-effect waves-light" target="_blank">
+            <a href="https://github.com/LittleBlockawa" class="waves-effect waves-light" target="_blank">
                 <i class="fab fa-github-square fa-fw"></i>Fork Me
             </a>
         </li>
@@ -293,7 +293,7 @@
     }
 </style>
 
-<a href="https://github.com/Jabari110" class="github-corner tooltipped hide-on-med-and-down" target="_blank"
+<a href="https://github.com/LittleBlockawa" class="github-corner tooltipped hide-on-med-and-down" target="_blank"
    data-tooltip="Fork Me" data-position="left" data-delay="50">
     <svg viewBox="0 0 250 250" aria-hidden="true">
         <path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path>
@@ -385,7 +385,7 @@
                     <div class="col s12 m12 l4">
                         <div class="profile center-align">
                             <div class="avatar">
-                                <img src="/medias/avatar.jpg" alt="Jabari"
+                                <img src="/medias/avatar.jpg" alt="LittleBlock"
                                      class="circle responsive-img avatar-img">
                             </div>
                             <div class="author">
@@ -402,11 +402,11 @@
 
 
                                 </div>
-                                <div class="title">Jabari</div>
+                                <div class="title">LittleBlock</div>
                                 <div class="career">Master of Mechanics</div>
                                 <div class="social-link hide-on-large-only" data-aos="zoom-in-left">
                                     
-    <a href="https://github.com/Jabari110" class="tooltipped" target="_blank" data-tooltip="访问我的GitHub" data-position="top" data-delay="50">
+    <a href="https://github.com/LittleBlockawa" class="tooltipped" target="_blank" data-tooltip="访问我的GitHub" data-position="top" data-delay="50">
         <i class="fab fa-github"></i>
     </a>
 
@@ -444,7 +444,7 @@
                     <div class="col l4 hide-on-med-and-down" data-aos="zoom-in-left">
                         <div class="social-link">
                             
-    <a href="https://github.com/Jabari110" class="tooltipped" target="_blank" data-tooltip="访问我的GitHub" data-position="top" data-delay="50">
+    <a href="https://github.com/LittleBlockawa" class="tooltipped" target="_blank" data-tooltip="访问我的GitHub" data-position="top" data-delay="50">
         <i class="fab fa-github"></i>
     </a>
 
@@ -784,7 +784,7 @@
             
                 <span id="year">2019-2022</span>
             
-            <a href="/about" target="_blank">Jabari</a>
+            <a href="/about" target="_blank">LittleBlock</a>
             |&nbsp;Powered by&nbsp;<a href="https://hexo.io/" target="_blank">Hexo</a>
             |&nbsp;Theme&nbsp;<a href="https://github.com/blinkfox/hexo-theme-matery" target="_blank">Matery</a>
             <br>
@@ -813,7 +813,7 @@
             
         </div>
         <div class="col s12 m4 l4 social-link social-statis">
-    <a href="https://github.com/Jabari110" class="tooltipped" target="_blank" data-tooltip="访问我的GitHub" data-position="top" data-delay="50">
+    <a href="https://github.com/LittleBlockawa" class="tooltipped" target="_blank" data-tooltip="访问我的GitHub" data-position="top" data-delay="50">
         <i class="fab fa-github"></i>
     </a>
 
